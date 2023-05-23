@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="question_autor">¿El río Amazonas es el río más largo del mundo.?</string>
+    <string name="question_it">¿El Sáhara es el desierto más grande del mundo.? </string>
+    <string name="question_torre">¿La Gran Muralla China es visible desde el espacio?</string>
+    <string name="question_cementerio">¿El lago Titicaca se encuentra en América del Norte?</string>
+    <string name="question_cupula">¿La Muralla China fue construida para proteger al país de los invasores. ?</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="correct_text">Correcto!</string>
+    <string name="incorrect_text">Incorrecto!</string>
+    <string name="next_button">Next</string>
+    <string name="prev_button">Prev</string>
+    <string name="warning_text">¿Estás seguro de hacer esto?</string>
+    <string name="show_answer_button">Ver respuesta</string>
+    <string name="cheat_button">Cheat!</string>
+    <string name="judgment_text">Cheating is wrong.</string>
+    <string name="back_text">Back</string>
+</resources>
